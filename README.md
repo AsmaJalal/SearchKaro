@@ -1,7 +1,7 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-<img align="right" width="400" height="200" src="https://github.com/AsmaJalal/SearchKaro/blob/main/searchkro.gif" alt="Asma Jalal">
-<img align="right" width="200" height="400" src="https://raw.githubusercontent.com/AsmaJalal/SearchKaro/main/searchkro.gif" alt="Asma Jalal">
+<img align="right" width="200" height="500" src="https://github.com/AsmaJalal/SearchKaro/blob/main/searchkro.gif" alt="Asma Jalal">
+
 
 
 # Getting Started
